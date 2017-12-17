@@ -84,9 +84,9 @@ html,body{
     left: 6px;
    background: #fff;
 }
-/*.yc{
+.yc{
 	display: none;
-}*/
+}
 .pic-two .img2{
 	height: 35px;
 	transform: rotateZ(0deg);
